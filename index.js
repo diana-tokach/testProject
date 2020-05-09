@@ -1,4 +1,4 @@
-
+'use strict';
 
 var number = 1;
 var string = 'Tokach';
